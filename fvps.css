@@ -1,8 +1,8 @@
 body{	
-	background-image:url("bone2.jpg");
+	background-image:url("images/bone2.jpg");
 }
 #header{
-	background-image:url("logo2.png");
+	background-image:url("images/logo2.png");
 	background-size:365px 280px;
 	background-repeat:no-repeat;
 	height:280px;
@@ -34,7 +34,7 @@ body{
 #links a:visited{color:white;}
 #links a:hover {color:yellow;}
 #circle1{
-	background-image: url("gsd.jpg");
+	background-image: url("images/gsd.jpg");
 	background-size:250px 220px;
 	width:23%;
 	height:220px;
@@ -44,7 +44,7 @@ body{
 	margin-right:1%;
 }
 #circle2{
-	background-image: url("husky.png");
+	background-image: url("images/husky.png");
 	background-size:230px 250px;
 	background-color:white;
 	width:23%;
@@ -54,7 +54,7 @@ body{
 	margin-right:1%;
 }
 #circle3{
-	background-image: url("beagle.jpg");
+	background-image: url("images/beagle.jpg");
 	background-size:250px 220px;
 	width:23%;
 	height:220px;
@@ -63,7 +63,7 @@ body{
 	margin-right:1%;
 }
 #circle4{
-	background-image: url("boxer.png");
+	background-image: url("images/boxer.png");
 	background-size:250px 520px;
 	background-color:white;
 	width:23%;
@@ -197,7 +197,7 @@ ul{
 #wrapper{
 	width:100%;
 	float:left;
-	background-image:url("pawPrints.jpg");
+	background-image:url("images/pawPrints.jpg");
 }
 #wrapper3{
 	padding-left:15%;
